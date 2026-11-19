@@ -1,0 +1,19 @@
+{
+  "name": "rotterdam-open-world",
+  "version": "1.0.0",
+  "description": "Open World hra v Rotterdamu s reálným 3D modelem města z 3drotterdam.nl, fyzikou chůze, aut a lodí",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "download-models": "python3 scripts/download_rotterdam.py"
+  },
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}

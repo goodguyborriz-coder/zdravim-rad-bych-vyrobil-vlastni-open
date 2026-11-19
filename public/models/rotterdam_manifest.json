@@ -1,0 +1,83 @@
+{
+  "city": "Rotterdam",
+  "source": "3drotterdam.nl",
+  "models": [
+    {
+      "id": "erasmusbrug",
+      "name": "Erasmusbrug (Erasmus Bridge)",
+      "file": "models/erasmusbrug.glb",
+      "type": "bridge",
+      "size_bytes": 2049836,
+      "offset": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "rotterdam_wilhelminapier",
+      "name": "Wilhelminapier & De Rotterdam",
+      "file": "models/rotterdam_wilhelminapier.glb",
+      "type": "buildings",
+      "tile": "33584/6934.b3dm",
+      "size_bytes": 631964,
+      "offset": [
+        126.6,
+        0.0,
+        173.1
+      ]
+    },
+    {
+      "id": "rotterdam_boompjes",
+      "name": "Boompjes & Leuvehaven Entrance",
+      "file": "models/rotterdam_boompjes.glb",
+      "type": "buildings",
+      "tile": "33584/6933.b3dm",
+      "size_bytes": 1670540,
+      "offset": [
+        -211.8,
+        0.0,
+        -203.2
+      ]
+    },
+    {
+      "id": "rotterdam_rijnhaven",
+      "name": "Rijnhaven Quay & Marina",
+      "file": "models/rotterdam_rijnhaven.glb",
+      "type": "buildings",
+      "tile": "33584/6935.b3dm",
+      "size_bytes": 2798596,
+      "offset": [
+        465.0,
+        0.0,
+        549.3
+      ]
+    },
+    {
+      "id": "rotterdam_veerhaven",
+      "name": "Veerhaven & West Waterfront",
+      "file": "models/rotterdam_veerhaven.glb",
+      "type": "buildings",
+      "tile": "33583/6934.b3dm",
+      "size_bytes": 2993584,
+      "offset": [
+        124.3,
+        0.0,
+        428.7
+      ]
+    },
+    {
+      "id": "rotterdam_noordereiland",
+      "name": "Noordereiland & Koninginnehoofd",
+      "file": "models/rotterdam_noordereiland.glb",
+      "type": "buildings",
+      "tile": "33585/6934.b3dm",
+      "size_bytes": 2159348,
+      "offset": [
+        128.9,
+        0.0,
+        -82.6
+      ]
+    }
+  ]
+}
